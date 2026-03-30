@@ -18,6 +18,12 @@ It allows you to visualize a 2D cave grid where walls and empty spaces form natu
 
 ---
 
+## Example Output
+
+![Example cave](cave.png)
+
+---
+
 ## Requirements
 
 - Python 3.x
@@ -27,4 +33,3 @@ Install matplotlib if you don’t have it:
 
 ```bash
 pip install matplotlib
-![Example cave](cave.png)
