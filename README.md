@@ -20,7 +20,7 @@ It allows you to visualize a 2D cave grid where walls and empty spaces form natu
 
 ## Example Output
 
-![Example cave](cave.png)
+![Example cave](Figure_1.png)
 
 ---
 
