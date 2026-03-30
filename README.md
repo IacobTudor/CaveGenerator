@@ -27,3 +27,4 @@ Install matplotlib if you don’t have it:
 
 ```bash
 pip install matplotlib
+![Example cave](cave.png)
